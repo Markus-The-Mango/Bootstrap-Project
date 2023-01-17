@@ -1,0 +1,30 @@
+nav{
+    padding-bottom: 120px;
+    background-color: #F05836;
+    
+}
+footer{
+    background-color: #F46E7B;
+    
+}
+footer a{
+    color: white;
+    
+}
+body { 
+    padding-top: 60px; 
+    background-color:#E5F5F5;
+    color: #3F4E78;
+}
+img{
+    border-radius: 10px;
+    border-width: 5px;
+   
+}
+img.gallery{
+    width:50%;
+    height: 50%;
+    padding: 10px;
+   
+}
+
